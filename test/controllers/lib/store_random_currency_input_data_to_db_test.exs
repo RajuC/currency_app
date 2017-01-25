@@ -1,0 +1,4 @@
+defmodule CurrencyApp.StoreRandomCurrencyInputDataToDbTest do
+	use CurrencyApp.ConnCase
+
+end
